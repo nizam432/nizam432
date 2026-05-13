@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 হ্যালো, আমি MD Nizam Uddin
+# 👋 Hello, I'm MD Nizam Uddin
 
 ### Full Stack Web Developer | Laravel Enthusiast | Dhaka, Bangladesh 🇧🇩
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 আমার সম্পর্কে
+## 🧑‍💻 About Me
 
 ```php
 <?php
@@ -30,7 +30,7 @@ $nizam = [
 - 🏢 **Innovative IT BD** তে কাজ করছি
 - 🌱 নতুন প্রযুক্তি শেখা এবং প্রজেক্ট তৈরি করা আমার আগ্রহ
 - 💬 **Laravel, PHP, JavaScript** নিয়ে কথা বলতে ভালোবাসি
-- 📫 যোগাযোগ: [innovativeitbd.com](https://www.innovativeitbd.com/)
+- 📫 Contact: (https://www.nizamuddin.dev/)
 
 ---
 

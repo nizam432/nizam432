@@ -72,12 +72,14 @@ $nizam = [
 
 ---
 
+## 🤝 Connect with Me
+
 <div align="center">
 
-### 🤝 Connect with me
-
-[![Website](https://img.shields.io/badge/Website-innovativeitbd.com-0ea5e9?style=flat-square&logo=google-chrome)](https://www.innovativeitbd.com/)
+[![Website](https://img.shields.io/badge/Website-nizamuddin.dev-0ea5e9?style=flat-square&logo=google-chrome)](https://nizamuddin.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-nizam432-181717?style=flat-square&logo=github)](https://github.com/nizam432)
+
+</div>
 
 ---
 

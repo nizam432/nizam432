@@ -27,11 +27,10 @@ $nizam = [
 ];
 ```
 
-- 🏢 **Innovative IT BD** তে কাজ করছি
-- 🌱 নতুন প্রযুক্তি শেখা এবং প্রজেক্ট তৈরি করা আমার আগ্রহ
-- 💬 **Laravel, PHP, JavaScript** নিয়ে কথা বলতে ভালোবাসি
-- 📫 Contact: (https://www.nizamuddin.dev/)
-
+- 🏢 Currently working at **Innovative IT BD**
+- 🌱 Passionate about learning new technologies and building projects
+- 💬 Love talking about **Laravel, PHP, and JavaScript**
+- 📫 Contact: https://www.nizamuddin.dev/
 ---
 
 ## 🛠️ Technologies & Tools

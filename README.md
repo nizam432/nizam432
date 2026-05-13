@@ -4,7 +4,7 @@
 
 ### Full Stack Web Developer | Laravel Enthusiast | Dhaka, Bangladesh 🇧🇩
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nizamuddin.dev-0ea5e9?style=for-the-badge)]([https://www.nizamuddin.dev](https://nizamuddin.dev/)/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-nizamuddin.dev-0ea5e9?style=for-the-badge)](https://nizamuddin.dev/)
 [![GitHub followers](https://img.shields.io/github/followers/nizam432?style=for-the-badge&color=0ea5e9)](https://github.com/nizam432?tab=followers)
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=nizam432&style=for-the-badge&color=0ea5e9)](https://github.com/nizam432)
 

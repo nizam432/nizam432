@@ -53,10 +53,10 @@ $nizam = [
 ## 📌 Featured Projects
 
 ### 🏠 [Apartment Management System](https://github.com/nizam432/apartment-management-laravel)
-> Laravel ও AdminLTE দিয়ে তৈরি মাল্টি-প্যানেল অ্যাপার্টমেন্ট ম্যানেজমেন্ট সিস্টেম
+> A multi-panel apartment management system built with Laravel and AdminLTE.
 
 ### 💰 [Income & Expense Management](https://github.com/nizam432/income-expense-management-laravel)
-> Laravel দিয়ে তৈরি আয়-ব্যয় ট্র্যাকিং সিস্টেম
+> An income and expense tracking system built with Laravel.
 
 ---
 
